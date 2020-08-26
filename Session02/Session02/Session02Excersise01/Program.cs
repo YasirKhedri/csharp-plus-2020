@@ -7,8 +7,10 @@ namespace Session02Excersise01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("test");
-            
+            Console.WriteLine("testt");
+            var siffra = 0;
+
+            Console.WriteLine("siffran är " + siffra.ToString());
             
         }
     }
