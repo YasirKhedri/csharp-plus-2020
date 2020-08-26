@@ -7,10 +7,12 @@ namespace Session02Excersise01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("testt");
+            String stringValue = "Plushogskolan";
             var siffra = 0;
 
             Console.WriteLine("siffran är " + siffra.ToString());
+            Console.WriteLine("The value of stringvalue is:" + stringValue);
+            
             
         }
     }
